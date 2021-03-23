@@ -1,0 +1,17 @@
+# Homework 2 | Research free software/ open source sofware alternatives.
+**Student Name:** Taylor Warren **Course:** CIS 106
+## Part 1
+1. What are the advantages of open source?
+   
+2. What are the basic freedoms that make a software open source?
+   
+3. Why do you think people should use the free software/open-source alternative instead of the proprietary version?
+4. Watch the following video: Why is free software important? Richard Stallman - in INT's ENLIGHTENMENT MINUTES. Do you agree with Richard Stallman? Do you disagree? Explain your answer.
+## Part 2
+**Application Name** | **Open Source Alternative** | **License Used by Alternative**
+------------------ | --------------------------- | ------------------------------- 
+Skype | Jitsi | Apache License 2.0
+Photoshop | GIMP | GPLv3+ 
+Microsoft Office | LibreOffice | (Multiple Licenses) MPLv2.0 (Secondary: GPL, LGPLv3+ or Apache License 2.0) 
+Outlook | Mozilla Thunderbird | (Multiple Licenses) MPL1.1 or GPL-2.0-or-later or LGPL-2.1-or-later 
+Microsoft Hyper-V | VirtualBox | (Multiple Licenses) Base Package (USB support only for USB 1.1): GNU General Public License version 2 (Optionally CDDL for most files of the source distribution), "Extension Pack" (including USB 3.0 support): PUEL 
