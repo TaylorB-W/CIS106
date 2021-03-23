@@ -1,4 +1,4 @@
-#Why do you need to learn Linux?
+# Why do you need to learn Linux?
 * Linux runs on many different devices. 
   * Example: Laptops, desktops, servers, smartphones, IoT devices, etc.
 * Linux powers the cloud.
@@ -13,13 +13,13 @@
   * all its components are separate from each other.
 #Linux Books I can use:
 * Linux Administration A Beginner's Guide 8th Edition by Wale Soyinka
-  ![Cover Art](LinuxAdministrationBookCover.png)
+  ![Cover Art](/Images/LinuxAdministrationBookCover.PNG)
 * CompTia Linux+ Study Guide by Christine Bresnahan
-  ![Cover Art](LinuxPlusBookCover.png)
+  ![Cover Art](/Images/LinuxPlusBookCover.PNG)
 * The Linux Command Line by William Shotts
-  ![Cover Art](LinuxCommandLineBookCover.png)
+  ![Cover Art](/Images/LinuxCommandLineBookCover.PNG)
 #Linux Distributions
-![LinuxKernel](LinuxKernel.png)
+![LinuxKernel](/Images/LinuxKernel.PNG)
 * There are a large number of Linux Distributions.
 * **The Two Main Linux Distributions** are:
   * Debian
@@ -29,7 +29,7 @@
   * Arch
   * Gentoo
 #Linux Architecture
-![Linux Architecture Picture](LinuxArchPic.png)
+![Linux Architecture Picture](/Images/LinuxArchPic.PNG)
 * Linux is modular which means that users can add anything needed and/or remove anything unwanted or unneeded.
   * **Kernel** = The core of the operating system. Manages the hardware.
   * **Daemons** = background programs that run independent of the user.
@@ -51,7 +51,7 @@ Software can be distributed for free or a fee. **The source code must be distrib
 
 Open Source Software | Closed Source Software
 -------------------- | ---------------------- 
-![LibreOffice](LibreOffice.png) Libre office ![Mozilla Firefox](Firefox.png) Mozilla Firefox ![VLC](VLC.png) VLC Media Player | ![Office](office.png) Microsoft Office ![Explorer](Explorer.png) Internet Explorer ![WMP](WMP.png) Windows Media Player
+![LibreOffice](/Images/LibreOffice.png) Libre office ![Mozilla Firefox](/Images/Firefox.png) Mozilla Firefox ![VLC](/Images/VLC.png) VLC Media Player | ![Office](/Images/Office.png) Microsoft Office ![Explorer](/Images/Explorer.png) Internet Explorer ![WMP](/Images/WMP.png) Windows Media Player
 
 **The 4 freedoms**
 * Freedom 0: the user can run the program as they wish, for any purpose.
@@ -59,7 +59,7 @@ Open Source Software | Closed Source Software
 * Freedom 2: the user can redistribute copies.
 * Freedom 3: the user can distribute copies of your modified versions.
 # Advantages/Disadvantages of Open Source Software
-![Advantages](Advantages.png) ![Disadvantages](Disadvantages.png)
+![Advantages](/Images/Advantages.PNG) ![Disadvantages](/Images/Disadvantages.PNG)
 # What is Ubuntu?
 * Ubuntu is a **Linux distribution**, freely available with both community and professional support.
 * Ubuntu community built on ideas enshrined in Ubuntu Manifesto:
