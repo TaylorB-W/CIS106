@@ -19,7 +19,7 @@ Problem 5 ![l5q3p5](../Images/lab5/lab5q3p5.png)
 Problem 1 ![l5q4p1](../Images/lab5/lab5q4p1.png)
 Problem 2 ![l5q4p2](../Images/lab5/lab5q4p2.png)
 Problem 3 ![l5q4p3](../Images/lab5/lab5q4p3.png)Problem 4 ![l5q4p4](../Images/lab5/lab5q4p4.png)
-Problem 5 ![l5q4p5](../Images/lab5/lab5q4p5.png))
+Problem 5 ![l5q4p5](../Images/lab5/lab5q4p5.png)
 #Question 5
 Problem 1 & 2 ![l5q5p1](../Images/lab5/lab5q5p1.png)
 Problem 3 ![l5q5p3](../Images/lab5/lab5q5p3.png)
