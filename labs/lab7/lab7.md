@@ -1,9 +1,10 @@
 # Lab 7 | Managing Data
 ## Question 1 | Tar Utility
-### Problem 2
-![L7Q1.2](../Images/lab7/lab7q1.2)
+### Problems 1 and 2
+![L7Q1.1](../Images/../../Images/lab7/lab7q1.1.png)
+
 ### Problem 3
-![L7Q1.3](../Images/lab7/lab7q1.3)
+![L7Q1.3](../../Images/lab7/lab7q1.3.png)
 
 ## Question 2 | Cipio Utility
 ### Problem 1
