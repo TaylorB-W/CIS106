@@ -1,4 +1,3 @@
-# Deliverable 2
+# Taylor Warren | Deliverable 2
 
-
-The students will list and provide a brief description of the resources that are being used to complete the project. Also, the student will provide a brief explanation of the technologies that he is learning in order to complete the project.
+I have used your videos from youtube.com (https://bit.ly/3hotGWP, https://bit.ly/3w5nVBr) and your presentation on "Preparing your virtual machine" (https://bit.ly/3eKsmMn) so far in this project. I am learning more in depth about virtualization so that I can better prepare my virtual machine for my needs. As I will be utilizing this machine for my future classes in CIS. 
