@@ -1,3 +1,3 @@
 # Taylor Warren | Deliverable 2
 
-I have used your videos from youtube.com (https://bit.ly/3hotGWP, https://bit.ly/3w5nVBr) and your presentation on "Preparing your virtual machine" (https://bit.ly/3eKsmMn) so far in this project. I am learning more in depth about virtualization so that I can better prepare my virtual machine for my needs. As I will be utilizing this machine for my future classes in CIS. 
+I have used your videos from youtube.com (https://bit.ly/3hotGWP, https://bit.ly/3w5nVBr) and your presentation on "Preparing your virtual machine" (https://bit.ly/3eKsmMn) so far in this project. I am learning more in depth about virtualization so that I can better prepare my virtual machine for my needs. As I will be utilizing this machine for my future classes in the CIS field. 
