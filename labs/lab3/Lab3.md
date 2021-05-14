@@ -45,17 +45,17 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
  
 
 ## Question 2
-![Question 2](../Images/lab3/Question2Lab3.png)
+![Question 2](/Images/lab3/Question2Lab3.png)
 
-![Question 2 part 2](../Images/lab3/Question2p2Lab3.png)
+![Question 2 part 2](/Images/lab3/Question2p2Lab3.png)
 
 ## Question 3
-![Question 3](../Images/lab3/Question3Lab3.png)
+![Question 3](/Images/lab3/Question3Lab3.png)
 ## Question 4
-![Question 4.1](../Images/lab3/Question4p1Lab3.png)
-![Question 4.2](../Images/lab3/Question4p2Lab3.png)
-![Question 4.3](../Images/lab3/Question4p3Lab3.png.png)
-![Question 4.4](../Images/lab3/Question4p4Lab3.png)
+![Question 4.1](/Images/lab3/Question4p1Lab3.png)
+![Question 4.2](/Images/lab3/Question4p2Lab3.png)
+![Question 4.3](/Images/lab3/Question4p3Lab3.png.png)
+![Question 4.4](/Images/lab3/Question4p4Lab3.png)
 
 ## Question 5
 The screen shot is of the command that gives all directories instead of all files only because the terminal would not let me scroll to the top where i did the input of the command to screen shot. The command to list all the files in the tree format is:
@@ -63,12 +63,12 @@ The screen shot is of the command that gives all directories instead of all file
 -a lists all files
 -u displays file owners
 -g displays file group
-![Question 5.1](../Images/lab3/Question5p1Lab3.png)
+![Question 5.1](/Images/lab3/Question5p1Lab3.png)
 
 The command to list all files in the tree format including file size and in human readable format is:
 **tree -ash**
 -a lists all files
 -s prints the size of each file
 -h prints the size in a more human readable way
-![Question 5.2](../Images/lab3/Question5p2Lab3.png)
+![Question 5.2](/Images/lab3/Question5p2Lab3.png)
 ## I was unable to capture the screen shot including the command required commands, so I improvised. I hope this is acceptable with my explanation in question 5.
