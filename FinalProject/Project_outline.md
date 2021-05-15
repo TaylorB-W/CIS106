@@ -2,7 +2,7 @@
  Your goal is to prepare and document a computer setup for every day using Ubuntu (or an Ubuntu Flavor) as the main operating system. 
 
 # Requirements
-
+* 
 # Detailed Step by step instructions on how to:
 * Install Ubuntu 20.04
 * Update Ubuntu and best practices
