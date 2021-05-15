@@ -20,7 +20,7 @@
   1. After VirtualBox is installed, create a virtual machine with these specs:
      * OS: Ubuntu 20.04 64 Bits
      * HDD: 50 GB
-     * RAM: 2 GB
+     * RAM: 2 GB (2048 MB)
      * Audio Controller: Disabled
      * CPU: 2 Cores
      * Description:
