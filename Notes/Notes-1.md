@@ -13,13 +13,13 @@
   * all its components are separate from each other.
 #Linux Books I can use:
 * Linux Administration A Beginner's Guide 8th Edition by Wale Soyinka
-  ![Cover Art](/Images/notes1/LinuxAdministrationBookCover.PNG)
+  ![Cover Art](../Images/notes1/LinuxAdministrationBookCover.png)
 * CompTia Linux+ Study Guide by Christine Bresnahan
-  ![Cover Art](/Images/notes1/LinuxPlusBookCover.PNG)
+  ![Cover Art](../Images/notes1/LinuxPlusBookCover.png)
 * The Linux Command Line by William Shotts
-  ![Cover Art](/Images/notes1/LinuxCommandLineBookCover.PNG)
+  ![Cover Art](../Images/notes1/LinuxCommandLineBookCover.png)
 #Linux Distributions
-![LinuxKernel](/Images/notes1/LinuxKernel.PNG)
+![LinuxKernel](../Images/notes1/LinuxKernel.png)
 * There are a large number of Linux Distributions.
 * **The Two Main Linux Distributions** are:
   * Debian
@@ -29,7 +29,7 @@
   * Arch
   * Gentoo
 #Linux Architecture
-![Linux Architecture Picture](/Images/notes1/LinuxArchPic.PNG)
+![Linux Architecture Picture](../Images/notes1/LinuxArchPic.png)
 * Linux is modular which means that users can add anything needed and/or remove anything unwanted or unneeded.
   * **Kernel** = The core of the operating system. Manages the hardware.
   * **Daemons** = background programs that run independent of the user.
@@ -51,7 +51,7 @@ Software can be distributed for free or a fee. **The source code must be distrib
 
 Open Source Software | Closed Source Software
 -------------------- | ---------------------- 
-![LibreOffice](/Images/notes1/LibreOffice.png) Libre office ![Mozilla Firefox](/Images/notes1/Firefox.png) Mozilla Firefox ![VLC](/Images/notes1/VLC.png) VLC Media Player | ![Office](/Images/notes1/Office.png) Microsoft Office ![Explorer](/Images/notes1/Explorer.png) Internet Explorer ![WMP](/Images/notes1/WMP.png) Windows Media Player
+![LibreOffice](../Images/notes1/LibreOffice.png) Libre office ![Mozilla Firefox](../Images/notes1/Firefox.png) Mozilla Firefox ![VLC](../Images/notes1/VLC.png) VLC Media Player | ![Office](../Images/notes1/Office.png) Microsoft Office ![Explorer](../Images/notes1/Explorer.png) Internet Explorer ![WMP](../Images/notes1/WMP.png) Windows Media Player
 
 **The 4 freedoms**
 * Freedom 0: the user can run the program as they wish, for any purpose.
@@ -59,7 +59,7 @@ Open Source Software | Closed Source Software
 * Freedom 2: the user can redistribute copies.
 * Freedom 3: the user can distribute copies of your modified versions.
 # Advantages/Disadvantages of Open Source Software
-![Advantages](/Images/notes1/Advantages.PNG) ![Disadvantages](/Images/notes1/Disadvantages.PNG)
+![Advantages](../Images/notes1/Advantages.png) ![Disadvantages](../Images/notes1/Disadvantages.png)
 # What is Ubuntu?
 * Ubuntu is a **Linux distribution**, freely available with both community and professional support.
 * Ubuntu community built on ideas enshrined in Ubuntu Manifesto:
