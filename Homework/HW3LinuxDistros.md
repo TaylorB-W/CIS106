@@ -60,7 +60,15 @@ logo | Based on | URL
 
 ## Scenario 4: Reviving an old PC
 Giorgina has an old computer that came with Windows Vista. She cannot afford to buy a new computer or update her current PC. Her computer is used for online shopping, reading emails, paying her bills, and listening to music. All her music is on an external hard drive and she normally does not keep important information on her computer. Georgina is willing to pay you to make her computer faster. You have concluded that installing Linux is the simplest and most cost-efficient way to help her. However, in such an old PC, Ubuntu 20.04 will be almost as slow as Windows 10 so you need to find another distribution that is much lighter on system resources and has been designed for running on older hardware. Which distribution will you install in Georgina’s ~~dinosaur~~ PC?
+> **Puppy Linux is optimized to support older computers. I would suggest the *official* Puppy Linux distributions. They are targeted  for general purpose use. This would be perfect for Georgina's dinosaur because it's small size (300 MB) would not slow it down.** 
+
+* What is it based on? 
+  > **According to distrowatch.com, Puppy Linux is Independently based from Australia.**
+* URL to where it can be downloaded from.: 
+* >**https://puppylinux.com/index.html#download** 
+* The Supported processor architecture: 
+* >**i686, x86_64**
 
 logo | Based on | URL 
 -----|----------|-----
-Insert logo here | answer here | URL here
+![puppylinuxlogo](hw3linuxdistros/puppylogo.png) | **Puppy Linux** | [puppylinux.com](https://puppylinux.com/)
