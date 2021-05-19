@@ -30,5 +30,4 @@
      * Shared Clipboard: Enabled - Bidirectional
      * Drag n' Drop: Enabled - Bidirectional     
        * I can cut, paste, drag items from host machine to vm and vice versa  
-  2.  
-* What is a Raspberry Pi (optional)
+   
